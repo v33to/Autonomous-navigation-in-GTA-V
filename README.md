@@ -27,7 +27,7 @@ This project implements a modular autonomous driving system for Grand Theft Auto
 
 2. **Clone the repository**
 ```bash
-   git clone <https://github.com/v33to/Autonomous-navigation-in-GTA-V.git>
+   git clone https://github.com/v33to/Autonomous-navigation-in-GTA-V.git
 ```
 
 3. **Install dependencies**
