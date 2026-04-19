@@ -1,0 +1,56 @@
+=== Dataset Analysis Report ===
+
+Basic Statistics:
+Number of images: 24966
+Image sizes found: 512x256
+Mean (RGB): [0.409, 0.405, 0.391]
+Std (RGB): [0.241, 0.233, 0.223]
+
+Class Information:
+Number of unique classes: 11
+Class IDs: 0, 7, 8, 11, 17, 19, 21, 22, 23, 24, 26
+
+Color Mapping:
+Class 0: RGB(0, 0, 0) | HEX #000000
+Class 7: RGB(128, 64, 128) | HEX #804080
+Class 8: RGB(244, 35, 232) | HEX #f423e8
+Class 11: RGB(70, 70, 70) | HEX #464646
+Class 17: RGB(153, 153, 153) | HEX #999999
+Class 19: RGB(250, 170, 30) | HEX #faaa1e
+Class 21: RGB(107, 142, 35) | HEX #6b8e23
+Class 22: RGB(152, 251, 152) | HEX #98fb98
+Class 23: RGB(70, 130, 180) | HEX #4682b4
+Class 24: RGB(220, 20, 60) | HEX #dc143c
+Class 26: RGB(0, 0, 142) | HEX #00008e
+
+Class Distribution (percentage of total pixels):
+Class 0: 3.59% (117,517,496 pixels)
+Class 7: 34.41% (1,125,856,154 pixels)
+Class 8: 7.72% (252,685,789 pixels)
+Class 11: 25.23% (825,674,056 pixels)
+Class 17: 1.31% (42,908,174 pixels)
+Class 19: 0.25% (8,305,079 pixels)
+Class 21: 9.05% (296,059,242 pixels)
+Class 22: 2.67% (87,521,534 pixels)
+Class 23: 9.49% (310,481,560 pixels)
+Class 24: 0.53% (17,289,867 pixels)
+Class 26: 5.75% (188,044,601 pixels)
+
+Class Weights (inverse frequency):
+Class 0: 0.3909
+Class 7: 0.0408
+Class 8: 0.1818
+Class 11: 0.0556
+Class 17: 1.0706
+Class 19: 5.5312
+Class 21: 0.1552
+Class 22: 0.5249
+Class 23: 0.1480
+Class 24: 2.6569
+Class 26: 0.2443
+
+Dataset Splits:
+Training samples: 19973
+Validation samples: 4993
+
+Split files created: train_ids.txt, val_ids.txt

@@ -1,0 +1,23 @@
+Model saved on: 2026-02-17 20:04:52.045580
+
+Dataset Statistics:
+Mean: [0.383, 0.376, 0.358]
+Std: [0.221, 0.209, 0.19]
+
+Final Metrics Per Class:
+Class ID	IoU	Dice	Class Name
+----------------------------------------------------------------------
+1	0.9445	0.9708	road + ground
+2	0.8111	0.8917	sidewalk
+3	0.8245	0.9029	building + dynamic + wall + bridge + tunnel + guard rail
+4	0.4330	0.5995	pole
+5	0.4682	0.6337	traffic light + traffic sign
+6	0.7604	0.8631	vegetation
+7	0.6361	0.7700	terrain
+8	0.9066	0.9508	sky
+9	0.5360	0.6808	person + rider
+10	0.8672	0.9268	car + truck + bus + trailer + train + motorcycle + bicycle
+
+Overall Metrics:
+Mean IoU: 0.6534
+Mean Dice: 0.7446
